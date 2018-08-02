@@ -1,0 +1,12 @@
+Base path: D:/unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-11420
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1048 outsize=515 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (36): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=798 outsize=0 kw= ok=0
+Unhandled exception: Readfile from pipe failed. GLE=管道已结束。
+
+
+Quitting shader compiler process
